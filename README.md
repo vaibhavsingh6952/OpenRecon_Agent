@@ -1,7 +1,7 @@
 
 ---
 
-# AI Agent OSINT Security Analyzer
+# OpenRecon AI Agent
 
 An autonomous cybersecurity platform that leverages AI agents to perform intelligent OSINT investigations across multiple threat intelligence sources. Powered by Cohere's Command R+ model, it dynamically selects tools, correlates multi-source data, and delivers actionable security assessments.
 
